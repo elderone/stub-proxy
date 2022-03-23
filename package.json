@@ -1,6 +1,7 @@
 {
   "name": "stubproxy",
   "version": "1.0.0",
+  "type": "module",
   "description": "get proxy settings from user and reload",
   "main": "src/app.js",
   "repository": "https://github.com/elderone/stub-proxy",
